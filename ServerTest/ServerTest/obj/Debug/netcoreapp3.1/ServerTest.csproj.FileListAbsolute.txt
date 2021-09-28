@@ -1,0 +1,14 @@
+D:\Unity project\ServerTest\ServerTest\bin\Debug\netcoreapp3.1\ServerTest.exe
+D:\Unity project\ServerTest\ServerTest\bin\Debug\netcoreapp3.1\ServerTest.deps.json
+D:\Unity project\ServerTest\ServerTest\bin\Debug\netcoreapp3.1\ServerTest.runtimeconfig.json
+D:\Unity project\ServerTest\ServerTest\bin\Debug\netcoreapp3.1\ServerTest.runtimeconfig.dev.json
+D:\Unity project\ServerTest\ServerTest\bin\Debug\netcoreapp3.1\ServerTest.dll
+D:\Unity project\ServerTest\ServerTest\bin\Debug\netcoreapp3.1\ServerTest.pdb
+D:\Unity project\ServerTest\ServerTest\obj\Debug\netcoreapp3.1\ServerTest.csproj.AssemblyReference.cache
+D:\Unity project\ServerTest\ServerTest\obj\Debug\netcoreapp3.1\ServerTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity project\ServerTest\ServerTest\obj\Debug\netcoreapp3.1\ServerTest.AssemblyInfoInputs.cache
+D:\Unity project\ServerTest\ServerTest\obj\Debug\netcoreapp3.1\ServerTest.AssemblyInfo.cs
+D:\Unity project\ServerTest\ServerTest\obj\Debug\netcoreapp3.1\ServerTest.csproj.CoreCompileInputs.cache
+D:\Unity project\ServerTest\ServerTest\obj\Debug\netcoreapp3.1\ServerTest.dll
+D:\Unity project\ServerTest\ServerTest\obj\Debug\netcoreapp3.1\ServerTest.pdb
+D:\Unity project\ServerTest\ServerTest\obj\Debug\netcoreapp3.1\ServerTest.genruntimeconfig.cache
